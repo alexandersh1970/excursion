@@ -1,0 +1,15 @@
+body {
+   background-color: black; 
+  
+}
+header {
+    align-self: center;
+}
+
+h1,h3,h4{
+    text-align: center;
+    color: antiquewhite;
+}
+.center {
+ text-align: center;  
+}
